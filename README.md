@@ -1,5 +1,5 @@
 # maze
-## A maze generator written in Python
+## A maze generator written in Python3
 
 Generates mazes using a backtracking implementation then converts those mazes into a png file.
 
